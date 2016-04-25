@@ -1,0 +1,50 @@
+header {
+	float: left;
+	margin: 1 1 30px 1;
+	padding: 5px 0 0 0;
+	width: 100%;
+	background: #fc3d80; //fondo de la cabecera
+	border-color: #599a68;
+	text-align: center;
+	color: blue;
+}
+h2{
+	color: black;
+}
+h3{
+	color: red;
+}
+body {
+	margin: 5px;
+	border: 50px;
+	padding: 0 5px;
+	background:  mediumaquamarine;//fondo de la pagina
+}
+footer{
+	font-size: 0.75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	color:  #000000;
+	background: #fc3d80;//fondo del footer
+}
+.lens {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+  border-right: 8px solid #8d9aa5;
+  border-radius: 2px;
+  position: absolute;
+  margin: 5px 0 0 -19px;
+}
+
+#color div {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 5px;
+  text-align: center;
+}
