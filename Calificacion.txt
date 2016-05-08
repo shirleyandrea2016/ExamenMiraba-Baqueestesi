@@ -1,0 +1,18 @@
+Detalle Calificacion   5/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 5 = (4 + 1 + 0.) Solo tienen la pagina de peliculas, y ni esa tienen bien.
+Errores Manejados o no tiene en consola (2 Puntos): 0 Tienen muchos errores en la consola en todas las paginas
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Puntos. Tienen un while infinito. 
+Buen Uso de Jquery y Galeria (2.5 Puntos): 0. No hacen buen uso del JQuery ni tienen galeria bien hecha.
+Uso de los media Queries (2.5 Puntos): 0.5 Al menos tienen una sentencia, aunque sin cerrar.
+Comentarios (1 Punto): 1 Punto. Si tienen comentarios.
+Pagina con buena estetica (1 Punto): 0 Puntos. Ni la estetice esta bien.
+Subio bien a github (1 Punto bonus): 0. Subieron 2 veces en lugar de corregir el repo que ya tenian. Asi no se usa el GIT.
+Total: 7 - 2 Puntos por enviarme repo incorrecto al comienzo.
+
+Comentarios Profesor
+Por favor envienme bien el repo. 
+Porque me hacen desperdiciar mi tiempo enviandome un repo que no es?
+Tienen discrepancia en la fecha del repo, revisare esto. Sale que no han enviado el dia del examen
+Porque tienen un ciclo loop infinito sin condicion de salida. PESIMO!
+No se que paso, esperaba mas de uds. =(
+Mission Failed.
